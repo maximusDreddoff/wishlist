@@ -1,0 +1,65 @@
+.buttons {
+    position: relative;
+    display: block;
+    width: 600px;
+    margin: 30px auto;
+}
+.likes {
+    position: relative;
+    float: right;
+}
+.panel-title {
+    font-size: 20px;
+}
+.modal-header {
+    text-align: center;
+}
+.modal-body {
+    padding: 0;
+}
+.modal-body div {
+    margin-top: 15px;
+    text-align: center;
+}
+.modal-body div input {
+    width: 180px;
+    margin: 0 auto;
+}
+.modal-footer button{
+    margin-top: 20px;
+}
+.count span, .totalPrice span, #byr span, #totalClicks, .total span, .BookLength span {
+    color: red;
+    font-size: 20px;
+}
+.totalPrice, #byr {
+     text-align: right;
+}
+#byr {
+    display: none;
+}
+.carousel {
+    width:200px;
+    height: auto;
+    margin: 0 auto;
+}
+.stopPlayBtns  {
+    width: 320px;
+    display: block;
+    margin: 20px auto;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; */
+    -webkit-appearance: none;
+    margin: 0;
+}
+.container:first-child{
+    margin-top: 50px;
+}
+.saveBtn {
+    margin-top: 10px;
+}
+#dialog th {
+    padding-right: 20px;
+}

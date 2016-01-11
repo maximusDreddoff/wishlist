@@ -1,0 +1,52 @@
+{
+"data" : [
+    {
+        "name" : "Javascript",
+        "author" : "David Flanagan",
+        "genre" : "learning",
+        "price" : "100"
+    },
+    {
+       "name" : "PHP",
+       "author" : "Luke Welling",
+       "genre" : "learning",
+       "price" : "120"
+    },
+    {
+        "name" : "Learning JavaScript Design Patterns",
+        "author" : "Addy Osmani",
+        "genre" : "learning",
+        "price" : "400"
+    },
+    {
+        "name" : "Understanding ECMAScript 6",
+        "author" : "Nicholas C. Zakas",
+        "genre" : "learning",
+        "price" : "204"
+    },
+    {
+        "name" : "Programming JavaScript Applications",
+        "author" : "Eric Elliot",
+        "genre" : "learning",
+        "price" : "214"
+    },
+    {
+        "name" : "The C Programming Language",
+        "author" : "Brian W. Kernighan",
+        "genre" : "learning",
+        "price" : "514"
+    },
+    {
+        "name" : "Programming Pearls",
+        "author" : "Jon L. Bentley",
+        "genre" : "learning",
+        "price" : "114"
+    },
+    {
+        "name" : "Java Concurrency in Practice",
+        "author" : "Brian Goetz",
+        "genre" : "learning",
+        "price" : "140"
+    }
+]
+}
